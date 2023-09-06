@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_add"
+        app:showAsAction="never"
+        android:title="Şikayet Oluştur">
+    </item>
+    <item
+        android:id="@+id/action_settings"
+        app:showAsAction="never"
+        android:title="Kullanıcı Profilim">
+    </item>
+
+    <item
+        android:id="@+id/action_logout"
+        app:showAsAction="never"
+        android:title="Çıkış Yap">
+    </item>
+</menu>
